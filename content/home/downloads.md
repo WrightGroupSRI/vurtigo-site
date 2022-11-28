@@ -9,7 +9,7 @@ If you use Vurtigo in your academic research, please cite Vurtigo as described [
 
 A docker image is currently available for Vurtigo 3.2 from [dockerhub](https://hub.docker.com/r/labonny/vurtigo).
 
-Release Notes 3.2.0
+[Release Notes 3.2.0](#release320)
 
 This has only been tested on Linux systems with an X server
 
