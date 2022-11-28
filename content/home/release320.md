@@ -60,6 +60,6 @@ weight: 8
 - Volume meta-information is not saved to the vurtigo object format
 - Not all DICOM files are supported
 - The transformation matrix for external volume formats, if one exists, is ignored
-- Crash when using "Checkerboard" stereo rendering
+- "Checkerboard" stereo rendering crashes on some systems
 - EP Mesh "Show EP Data" option does not work
 - 3D Point object table does not update automatically when the object changes
