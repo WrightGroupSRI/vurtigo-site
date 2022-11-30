@@ -1,0 +1,7 @@
+#!/bin/sh
+HOST=jSmial
+DIR=/var/www/vurtigo   # the directory where your web site files should go
+
+hugo && rsync -avz --delete public/ ${HOST}:${DIR} # this will delete everything on the server that's not in the local public folder 
+
+exit 0
