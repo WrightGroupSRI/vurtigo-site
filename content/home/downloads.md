@@ -1,6 +1,5 @@
 ---
 title: "Downloads"
-draft: true
 weight: 0
 ---
 ## Vurtigo

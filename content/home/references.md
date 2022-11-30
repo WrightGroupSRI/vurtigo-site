@@ -1,6 +1,5 @@
 ---
 title: "References"
-draft: true
 weight: 0
 ---
 When citing Vurtigo in your papers or presentations, please refer to the first paper in this list.

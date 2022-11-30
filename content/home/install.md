@@ -1,6 +1,5 @@
 ---
 title: "Install"
-draft: true
 image: "null.png"
 weight: 0
 ---

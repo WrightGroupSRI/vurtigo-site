@@ -34,5 +34,4 @@ resources:
     - src: 10_cathHistoryPlugin.png
       params:
           weight: -91
-draft: true
 ---

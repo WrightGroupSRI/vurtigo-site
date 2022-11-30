@@ -1,6 +1,5 @@
 ---
 title: "License"
-draft: true
 image: "null.png"
 weight: 0
 ---

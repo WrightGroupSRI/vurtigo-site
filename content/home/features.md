@@ -1,6 +1,5 @@
 ---
 title: "Features"
-draft: true
 weight: 0
 ---
 Vurtigo Features include:

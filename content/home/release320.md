@@ -1,6 +1,5 @@
 ---
 title: "Release 3.2.0 Notes"
-draft: true
 image: "null.png"
 weight: 8
 ---
