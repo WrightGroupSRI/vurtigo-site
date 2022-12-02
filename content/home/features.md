@@ -22,7 +22,7 @@ Vurtigo Features include:
  
  **3D Points** Create, manipulate and filter (based on configurable properties) 3D point clouds
  
- **Scanner Communication** Can connect to real-time scan information via the Geometry Server (included) or [OpenIGTLink](http://openigtlink.org/). The Geometry Server can work with compatible scanner console software such as [HeartVista's](https://www.heartvista.ai/) [RTHawk Research](https://www.heartvista.ai/for-research) (not included)
+ **Scanner Communication** Can connect to real-time scan information via the Geometry Server (included) or [OpenIGTLink](http://openigtlink.org/). The Geometry Server can work with compatible scanner console software such as [Vista.ai](https://www.vista.ai/)'s [RTHawk Research](https://vista.ai/products/research-rthawk/) (not included)
  
  **Real-time Imaging** Display and control multiple interactive real-time imaging planes within the 3D view
  
