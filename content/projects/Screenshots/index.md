@@ -19,19 +19,22 @@ resources:
     - src: 5_roiTool.png
       params:
           weight: -96
-    - src: 6_landmarkRegistration.png
+    - src: 5b_loadSegmentations.png
       params:
           weight: -95
-    - src: 7_geomServerPlugin.png
+    - src: 6_landmarkRegistration.png
       params:
           weight: -94
-    - src: 8_openIGTLink.png
+    - src: 7_geomServerPlugin.png
       params:
           weight: -93
-    - src: 9_cathTrackingPlugin.png
+    - src: 8_openIGTLink.png
       params:
           weight: -92
-    - src: 10_cathHistoryPlugin.png
+    - src: 9_cathTrackingPlugin.png
       params:
           weight: -91
+    - src: 10_cathHistoryPlugin.png
+      params:
+          weight: -90
 ---
