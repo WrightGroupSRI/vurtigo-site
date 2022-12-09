@@ -31,3 +31,7 @@ Research Institute from and against any losses, damages, fines and expenses (inc
 attorneys' fees and costs) arising out of or relating to your use of Vurtigo. THE ENTIRE
 RISK ARISING OUT OF YOUR USE OF THE SOFTWARE PRODUCT AND DOCUMENTATION REMAINS WITH YOU.
 ```
+## Third Party Tools
+Vurtigo uses [Qt](https://www.qt.io/), [VTK](https://vtk.org/), [CTK](http://www.commontk.org), [DCMTK](https://dicom.offis.de/dcmtk.php.en), [ITK](https://itk.org/), and [OpenIGTLink](http://openigtlink.org/) under their respective open-source licenses, available under the installation directory.
+
+Minor modifications were made to two libraries to allow them to build in the Vurtigo environment. These are available on github: [VTK](https://github.com/WrightGroupSRI/vtk), [CTK](https://github.com/WrightGroupSRI/ctk).
