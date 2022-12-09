@@ -4,7 +4,7 @@ weight: 0
 ---
 When citing Vurtigo in your papers or presentations, please refer to the first paper in this list.
 
-Radau PE, Pintilie S, Flor R, Biswas L, Oduneye S, Ramanan V, Anderson KA, Wright GA. *VURTIGO: Visualization platform for real-time, MRI-guided cardiac electroanatomic mapping*, Proceedings of Statistical Atlases and Computational Models of the Heart workshop (MICCAI workshop), Toronto, Sept. 22, 2011, [View PDF]()
+Radau PE, Pintilie S, Flor R, Biswas L, Oduneye S, Ramanan V, Anderson KA, Wright GA. *VURTIGO: Visualization platform for real-time, MRI-guided cardiac electroanatomic mapping*, Proceedings of Statistical Atlases and Computational Models of the Heart workshop (MICCAI workshop), Toronto, Sept. 22, 2011, [View PDF](/vurtigo_STACOM_2012.pdf)
 
 
 
