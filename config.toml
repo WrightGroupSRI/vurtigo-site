@@ -1,4 +1,4 @@
-baseURL                          = "https://www.vurtigo.ca/"   # Your domain name. Must end with "/"
+baseURL                          = "https://smial.sri.utoronto.ca/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
