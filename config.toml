@@ -104,3 +104,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
             description  = "Vurtigo visualization software"   # Max 160 characters show in search results
             footerText   = "Made at [Sunnybrook Research Institute](https://sunnybrook.ca/research/). Powered by [Hugo](http://gohugo.io/) and [Introduction](https://github.com/victoriadrake/hugo-theme-introduction/)"   # Text to override default footer text (markdown allowed)
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
